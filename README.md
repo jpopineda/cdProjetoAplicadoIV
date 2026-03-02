@@ -3,20 +3,9 @@
 
 # **PROJETO APLICADO IV - Ciência de Dados EaD - 2026/01**
 
-**Objetivo**: Desenvolver um produto analítico envolvendo séries temporais. O projeto deve incluir as fases de concepção, implementação e apresentação do projeto para um cliente. Escolher um tema em que os dados são organizados em formato de série temporal.
+# Previsão de Vida Útil Restante em Motores de Aviação Turbofan: Otimização de Custos e Sustentabilidade na Aviação:
 
-**ODS**: Nesse semestre, o tema deve ser relacionado aos ODS: 9 - indústria, inovação e infraestrutura; 12 - consumo e produção responsáveis.
-
-<p align="center">
-  <img src="https://github.com/scalabrinig/cdProjetoAplicadoIV/blob/1cbc699eb401a201e2b313d97f3eee6981ddcaea/figuras/sdg_09.svg" width="10%" align="center"/>
-  <img src="https://github.com/scalabrinig/cdProjetoAplicadoIV/blob/1cbc699eb401a201e2b313d97f3eee6981ddcaea/figuras/sdg_12.svg" width="10%" align="center"/>
-</p>
-
-
-**Recomendações e instruções para a elaboração do projeto**:
-
-Veja as [instruções](https://github.com/scalabrinig/cdProjetoAplicadoIV/blob/master/projeto/cd_projeto_aplicado_IV.ipynb) para a elaboração do projeto
-
+**Objetivo**: Desenvolver um modelo preditivo de séries temporais capaz de estimar o RUL (_Remaining Useful Life_) de motores turbofan aeronáuticos com base em dados de sensores, culminando em um produto analítico de apoio à tomada de decisão de sustentabilidade, segurança e redução de custos.
 
 **Cronograma de entregas**:
 
