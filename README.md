@@ -11,7 +11,7 @@
 
 _Etapa 1_: Definição do projeto e equipe (01/03) ([Entrega 1](https://github.com/jpopineda/cdProjetoAplicadoIV/blob/master/projeto/cd_projeto_aplicado_IV_entrega_1.ipynb))
 
-_Etapa 2_: Referencial Teórico e Cronograma (29/03)
+_Etapa 2_: Referencial Teórico e Cronograma (29/03) ([Entrega 2](https://github.com/jpopineda/cdProjetoAplicadoIV/blob/c5d7b987e148719549264cbe2852d0d6d1ce555e/projeto/cd_projeto_aplicado_IV_entrega_2.ipynb))
 
 _Etapa 3_: Implementação Parcial (26/04)
 
