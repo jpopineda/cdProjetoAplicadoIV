@@ -15,5 +15,5 @@ _Etapa 2_: Referencial Teórico e Cronograma (29/03) ([Entrega 2](https://github
 
 _Etapa 3_: Implementação Parcial (26/04) ([Entrega 3](https://github.com/jpopineda/cdProjetoAplicadoIV/blob/master/projeto/cd_projeto_aplicado_IV_entrega_3.ipynb))
 
-_Etapa 4_: Implementação e Entrega Final (31/05) ([Entrega 4](https://github.com/jpopineda/cdProjetoAplicadoIV/blob/master/projeto/cd_projeto_aplicado_IV_entrega_4.ipynb))
+_Etapa 4_: Implementação e Entrega Final (31/05) ([Entrega 4](https://github.com/jpopineda/cdProjetoAplicadoIV/blob/cc8b5e533cd3752856a934b5a5b6f1f94d18db67/projeto/cd_projeto_aplicado_iv_entrega_4.ipynb))
 
